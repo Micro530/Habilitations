@@ -8,5 +8,6 @@ namespace Habilitations.modele
 {
     class Test
     {
+        Habilitations,cvgjgjg
     }
 }

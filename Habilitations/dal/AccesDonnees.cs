@@ -13,7 +13,7 @@ namespace Habilitations.dal
         /// <summary>
         /// chaine de connexion à la bdd
         /// </summary>
-        private static string connectionString = "server=localhost;user id=habilitations;password=motdepasseuser;database=habilitations;SslMode=none";
+        private static string connectionString = "server=192.168.1.105;user id=habilitations;password=motdepasseuser;persistsecurityinfo=True;database=habilitations";
 
         /// <summary>
         /// Controle si l'utillisateur a le droit de se connecter (nom, prénom, pwd est profil "admin")
